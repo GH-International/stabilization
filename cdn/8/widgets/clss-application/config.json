@@ -1,0 +1,16 @@
+{ 
+  "appId": "uD8Wv7bmvo4Y3eXH",
+  "portalUrl": "https://ghis.maps.arcgis.com",
+  "assessments": "https://services3.arcgis.com/j2a3SeWN04oskFYa/arcgis/rest/services/CLSS_DataTablesNew/FeatureServer/1",
+  "constants": "https://services3.arcgis.com/j2a3SeWN04oskFYa/arcgis/rest/services/CLSS_DataTablesNew/FeatureServer/2",
+  "hazards": "https://services3.arcgis.com/j2a3SeWN04oskFYa/arcgis/rest/services/CLSS_DataTablesNew/FeatureServer/5",
+  "incidents": "https://services3.arcgis.com/j2a3SeWN04oskFYa/arcgis/rest/services/CLSS_DataTablesNew/FeatureServer/6",
+  "indicators": "https://services3.arcgis.com/j2a3SeWN04oskFYa/arcgis/rest/services/CLSS_DataTablesNew/FeatureServer/7",
+  "indicatorAssessments": "https://services3.arcgis.com/j2a3SeWN04oskFYa/arcgis/rest/services/CLSS_DataTablesNew/FeatureServer/8",
+  "weights": "https://services3.arcgis.com/j2a3SeWN04oskFYa/arcgis/rest/services/CLSS_DataTablesNew/FeatureServer/9",
+  "lifelines":"https://services3.arcgis.com/j2a3SeWN04oskFYa/arcgis/rest/services/CLSS_DataTablesNew/FeatureServer/17",
+  "components": "https://services3.arcgis.com/j2a3SeWN04oskFYa/arcgis/rest/services/CLSS_DataTablesNew/FeatureServer/18",
+  "lifelineStatus": "https://services3.arcgis.com/j2a3SeWN04oskFYa/arcgis/rest/services/CLSS_DataTablesNew/FeatureServer/19",
+  "organizations": "https://services3.arcgis.com/j2a3SeWN04oskFYa/arcgis/rest/services/CLSS_DataTablesNew/FeatureServer/22",
+  "templates": "https://services3.arcgis.com/j2a3SeWN04oskFYa/arcgis/rest/services/CLSS_DataTablesNew/FeatureServer/23"               
+}
