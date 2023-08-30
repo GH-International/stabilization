@@ -1974,7 +1974,7 @@
       "version": "1.10.0",
       "label": "CLSS Select Life",
       "config": {
-        "backgroundColor": "rgb(211, 211, 211)",
+        "backgroundColor": "#757575",
         "fontColor": "#ffffff",
         "selectedBackgroundColor": "#ffffff38",
         "appId": "LUfacTZoxbvoAGKy",
@@ -2060,7 +2060,7 @@
       "page_1": []
     }
   ],
-  "timestamp": 1693342052520,
+  "timestamp": 1693355593873,
   "header": {
     "layout": {
       "LARGE": "layout_31"

@@ -643,12 +643,12 @@
         "2": {
           "type": "WIDGET",
           "bbox": {
-            "left": "0%",
-            "right": "0%",
-            "top": "0%",
-            "bottom": "0%",
-            "width": "100%",
-            "height": "100%"
+            "left": "0.0%",
+            "right": "0.0%",
+            "top": "0.0%",
+            "bottom": "9.4%",
+            "width": "100.0%",
+            "height": "90.6%"
           },
           "widgetId": "widget_118",
           "setting": {
@@ -2060,7 +2060,7 @@
       "page_1": []
     }
   ],
-  "timestamp": 1693355593873,
+  "timestamp": 1693358285583,
   "header": {
     "layout": {
       "LARGE": "layout_31"
